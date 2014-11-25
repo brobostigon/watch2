@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_HUMIDITY": 2,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "TaylorWorld",
+    "longName": "watch2",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "watch2",
+    "uuid": "14a4ff73-c482-4eec-9c84-02fafd0d7e14",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
