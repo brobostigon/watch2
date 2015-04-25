@@ -13,7 +13,11 @@
     "resources": {
         "media": []
     },
+    "sdkVersion": "3",
     "shortName": "watch2",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "14a4ff73-c482-4eec-9c84-02fafd0d7e14",
     "versionCode": 1,
     "versionLabel": "0.1",
